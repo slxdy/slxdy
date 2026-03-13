@@ -22,10 +22,10 @@ I'm a **19-year-old Software Development MBO student** from the **Netherlands** 
 I enjoy building projects, solving technical problems, and improving the quality of my code over time.
 
 Right now, I'm mainly focused on:
-- 🔹 Writing solid C# code
-- 🔹 Building and improving personal projects
-- 🔹 Growing as a software developer
-- 🔹 Exploring more frontend tooling and libraries like **Bootstrap**
+-  Writing solid C# code
+-  Building and improving personal projects
+-  Growing as a software developer
+-  Exploring more frontend tooling and libraries like **Bootstrap**
 
 ---
 
@@ -83,16 +83,6 @@ Right now, I'm mainly focused on:
 - I care about writing code that stays understandable
 - I enjoy improving step by step instead of rushing messy solutions
 - I'm always looking for ways to become a better developer
-
----
-
-## 🌐 Profile Links
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-slxdy-181717?style=for-the-badge&logo=github)](https://github.com/slxdy)
-
-</div>
 
 ---
 
