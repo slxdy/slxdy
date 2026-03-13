@@ -44,6 +44,7 @@ Right now, I'm mainly focused on:
 - Project structure and maintainability
 - Explaining technical concepts clearly
 - Managing development work in a structured way
+- Reverse engineering (IL & asm)
 
 ---
 
