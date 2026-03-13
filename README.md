@@ -1,14 +1,15 @@
 <div align="center">
 
 # Hey, I'm Michal 👋
-### C# Developer • Software Development Student • Builder from the Netherlands
+### C# Developer • Software Development Student • Polish developer based in the Netherlands
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=C%23+Developer+with+6%2B+years+of+experience;Software+Development+MBO+student;Always+building%2C+learning%2C+and+improving;Backend+logic+%2B+clean+code+%2B+cool+projects" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=C%23+Developer+with+6%2B+years+of+experience;Software+Development+MBO+student;Polish+developer+living+in+the+Netherlands;Always+building%2C+learning%2C+and+improving" alt="Typing SVG" />
 
 <br/>
 
 <img src="https://img.shields.io/badge/Age-19-1f6feb?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Country-Netherlands-238636?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Origin-Poland-dc2626?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Based%20in-The%20Netherlands-238636?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Focus-C%23%20%26%20Software%20Development-6f42c1?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Experience-6%2B%20Years-d29922?style=for-the-badge" />
 
@@ -18,7 +19,7 @@
 
 ## 🚀 About Me
 
-I'm a **19-year-old Software Development MBO student** from the **Netherlands** with **6+ years of experience in C#**.  
+I'm a **19-year-old Software Development MBO student**, originally from **Poland** and currently living in the **Netherlands**, with **6+ years of experience in C#**.  
 I enjoy building projects, solving technical problems, and improving the quality of my code over time.
 
 Right now, I'm mainly focused on:
