@@ -26,7 +26,7 @@ Right now, I'm mainly focused on:
 -  Writing solid C# code
 -  Building and improving personal projects
 -  Growing as a software developer
--  Exploring more frontend tooling and libraries like **Bootstrap**
+-  Exploring more frontend tooling and libraries
 
 ---
 
