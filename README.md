@@ -34,7 +34,12 @@ Right now, I'm mainly focused on:
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cs,dotnet,git,github,html,css,js,bootstrap,visualstudio,vscode" />
+<img src="https://skillicons.dev/icons?i=cs,dotnet,cpp,php,unity,git,github,html,css,js,visualstudio,vscode&perline=7" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/WPF-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+<img src="https://img.shields.io/badge/Avalonia-7C3AED?style=for-the-badge&logo=dotnet&logoColor=white" />
 
 </div>
 
@@ -48,8 +53,29 @@ Right now, I'm mainly focused on:
 
 ---
 
-## Contributions
+## Contributions / Projects
+<h3>
+  <img src="https://github.com/LavaGang/MelonLoader/blob/master/icon.png" height=25>
+  MelonLoader
+</h3>
 
+- Rewritten the bootstrap (Rust -> C# AOT)
+- Easier user config (from command line arguments to a simple config file)
+
+<h3>
+  <img src="https://github.com/LavaGang/MelonLoader/blob/master/icon.png" height=25>
+  MelonLoader.Installer
+</h3>
+
+- Rewritten from scratch (WinForms -> Avalonia)
+- Easy game detection system
+
+<h3>
+  <img src="https://github.com/LavaGang/MelonLoader/blob/master/icon.png" height=25>
+  MelonLoader.UnityDependencies
+</h3>
+
+- A Unity libraries scraper using GitHub actions, used for Melonloader assembly generation.
 
 ---
 
@@ -57,14 +83,12 @@ Right now, I'm mainly focused on:
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=slxdy&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=slxdy&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" />
+<img src="https://raw.githubusercontent.com/slxdy/slxdy/main/profile-summary-card-output/github_dark/0-profile-details.svg" />
 
-</div>
+<br/>
 
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=slxdy&theme=tokyonight&hide_border=true&border_radius=12" />
+<img src="https://raw.githubusercontent.com/slxdy/slxdy/main/profile-summary-card-output/github_dark/3-stats.svg" height="170" />
+<img src="https://raw.githubusercontent.com/slxdy/slxdy/main/profile-summary-card-output/github_dark/4-productive-time.svg" height="170" />
 
 </div>
 
