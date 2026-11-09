@@ -2,7 +2,7 @@
 
 ## MelonLoader
 
-I contributed to [MelonLoader](https://github.com/LavaGang/MelonLoader), a mod loader for Unity games (Mono and IL2CPP) with 4k+ ★.
+I contributed to [MelonLoader](https://github.com/LavaGang/MelonLoader), a mod loader for Unity games (Mono and IL2CPP).
 
 - **Bootstrap rewrite:** rewrote the native bootstrap from Rust to C# compiled with NativeAOT
 - **Simpler configuration:** moved loader settings from command-line arguments into a plain config file
